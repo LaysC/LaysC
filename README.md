@@ -50,13 +50,6 @@
 
 ---
 
-### 📁 Projetos que valem o clique:
-
-* **[Controle de Estoque de EPI's](https://github.com/LaysC/controle-estoque-epi)**: Sistema completo com React 19, API nativa e um design que dá orgulho (com Dark Mode!).
-* **Music-API-Quarkus**: Meu laboratório de Back-end e APIs performáticas.
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=LaysC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" />
@@ -66,5 +59,5 @@
 
 ### 💬 Bora bater um papo?
 
-Se quiser trocar uma ideia sobre projetos, faculdade ou qual é a melhor Coca-Cola (a de vidro, óbvio), só chamar! 😄  
+Se quiser trocar uma ideia sobre tech, faculdade ou qual é a melhor Coca-Cola (a de vidro, sempre!), só chamar! 😄  
 Obrigada por visitar meu cantinho! 💖
