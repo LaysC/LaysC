@@ -1,61 +1,70 @@
-<h1 align="center">Oie, eu sou a Laís Carvalho! 👋</h1>
+<h1 align="center">Oie, eu sou a Laís! 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laís-carvalho-123595216" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/lais.carvalholi" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:laiscarvalho858@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="mailto:laiscarvalho858@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+in+Training;React+19+%2B+Next.js+Specialist;Quarkus+%26+Java+Explorer;Powered+by+Coca-Cola+%26+Pizza" alt="Typing SVG" />
-</div>
-
----
-
-### 👩‍💻 Sobre Mim
-
-- 🎓 Estudante de **Tecnologia em Sistemas para Internet**.
-- 🛠️ Atualmente focada em **React 19**, **Next.js** e integração de **APIs REST**.
-- 🥤 Movida a **Coca-Cola** gelada e apaixonada por transformar ideias em código.
-- 🍕 Especialista em fugir de legumes e encontrar a melhor pizza da cidade.
-
----
-
-### 🛠️ Minha Caixa de Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Quarkus](https://img.shields.io/badge/-Quarkus-FF0000?logo=quarkus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Outros** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) |
-
----
-
-### 🌟 Projetos em Destaque
-
-- **[Controle de Estoque de EPI's](https://github.com/LaysC/controle-estoque-epi)**: Sistema completo com CRUD, Dark Mode e filtros automáticos de validade usando React 19.
-- **Music-API-Quarkus**: Exploração de back-end performático com Java e Quarkus.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LaysC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
+<p align="center">
+  🎓 Estudante de <strong>Tecnologia em Sistemas para Internet</strong>, viciada em Coca-Cola e apaixonada por códigos.<br>
+  🚀 Explorando o mundo do <strong>desenvolvimento web</strong> e focada em criar interfaces que fazem a diferença!<br>
+  🍕 Com um paladar infantil, sempre fugindo de legumes e buscando receitas simples e criativas.
+</p>
 
 ---
 
 <div align="center">
-  <p>Bora trocar uma ideia sobre tech ou receitas sem legumes? 😄</p>
-  <img src="https://img.shields.io/badge/💖-Obrigada%20por%20visitar!-ff69b4?style=flat-square" alt="thank you" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8812FC&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;React+19+%2B+Next.js;Fugindo+dos+legumes...;Powered+by+Coca-Cola" alt="Typing SVG" />
+  </a>
 </div>
+
+---
+
+### 💻 No meu ecossistema tech:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Quarkus-FF0000?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📁 Projetos que valem o clique:
+
+* **[Controle de Estoque de EPI's](https://github.com/LaysC/controle-estoque-epi)**: Sistema completo com React 19, API nativa e um design que dá orgulho (com Dark Mode!).
+* **Music-API-Quarkus**: Meu laboratório de Back-end e APIs performáticas.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaysC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" />
+</div>
+
+---
+
+### 💬 Bora bater um papo?
+
+Se quiser trocar uma ideia sobre projetos, faculdade ou qual é a melhor Coca-Cola (a de vidro, óbvio), só chamar! 😄  
+Obrigada por visitar meu cantinho! 💖
