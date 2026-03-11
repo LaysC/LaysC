@@ -1,59 +1,61 @@
-<h1 align="center">Oie, eu sou a Laís! 👋</h1>
+<h1 align="center">Oie, eu sou a Laís Carvalho! 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laís-carvalho-123595216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/lais.carvalholi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="mailto:laiscarvalho858@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:laiscarvalho858@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
 
-<p align="left">🎓 Estudante de <strong>Tecnologia em Sistemas para Internet</strong>, viciada em Coca-Cola e apaixonada por códigos.<br>🚀 Explorando o mundo do <strong>desenvolvimento web</strong> e buscando minha especialização em programação!<br>🍕 Com um paladar infantil, sempre fugindo de legumes e buscando receitas simples.</p>
-
----
+<br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8812FC&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Fullstack+Developer+in+Training;React+19+%2B+Next.js+Specialist;Quarkus+%26+Java+Explorer;Powered+by+Coca-Cola+%26+Pizza" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💻 Tecnologias que estou aprendendo e utilizando:
+### 👩‍💻 Sobre Mim
+
+- 🎓 Estudante de **Tecnologia em Sistemas para Internet**.
+- 🛠️ Atualmente focada em **React 19**, **Next.js** e integração de **APIs REST**.
+- 🥤 Movida a **Coca-Cola** gelada e apaixonada por transformar ideias em código.
+- 🍕 Especialista em fugir de legumes e encontrar a melhor pizza da cidade.
+
+---
+
+### 🛠️ Minha Caixa de Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Quarkus](https://img.shields.io/badge/-Quarkus-FF0000?logo=quarkus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Outros** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) |
+
+---
+
+### 🌟 Projetos em Destaque
+
+- **[Controle de Estoque de EPI's](https://github.com/LaysC/controle-estoque-epi)**: Sistema completo com CRUD, Dark Mode e filtros automáticos de validade usando React 19.
+- **Music-API-Quarkus**: Exploração de back-end performático com Java e Quarkus.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaysC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LaysC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p>Bora trocar uma ideia sobre tech ou receitas sem legumes? 😄</p>
+  <img src="https://img.shields.io/badge/💖-Obrigada%20por%20visitar!-ff69b4?style=flat-square" alt="thank you" />
 </div>
-
----
-
-### 💬 Bora bater um papo?
-
-Me manda uma mensagem se quiser trocar uma ideia sobre projetos, tech, faculdade ou até receitas sem legumes! 😄  
-Obrigada por visitar meu perfil! 💖
